@@ -1,0 +1,48 @@
+.navbar {
+color: black;
+}
+
+.form-control me-2{
+    background-color:  rgb(46, 46, 120);
+}
+
+.finalpag1{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(46, 46, 120);
+    align-items: center;
+    margin: auto;
+}
+
+.a{
+    list-style: none;
+}
+
+.h2{
+
+}
+
+.pagquemsomos1{
+    height: 857px;
+    width: 100%;
+    background-color: rgb(46, 46, 120);
+    align-items: center;
+    margin: auto;
+}
+
+.meioquems{
+    background-color: white;
+    height: 20px;
+    width: 100%;
+}
+
+
+.login1{
+    opacity: 40%;
+    transition: 0.6s;
+}
+
+.login1:hover{
+    opacity: 55%;
+
+}   
